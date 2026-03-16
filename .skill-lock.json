@@ -38,6 +38,15 @@
       "skillFolderHash": "883a6a7466f55a9cd9f22cf1cce2d9333fc9b998",
       "installedAt": "2026-03-16T09:14:35.436Z",
       "updatedAt": "2026-03-16T09:14:35.436Z"
+    },
+    "auto-commit": {
+      "source": "jamesdphillips/dot-agents-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jamesdphillips/dot-agents-skills.git",
+      "skillPath": "auto-commit/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-03-16T09:29:28.390Z",
+      "updatedAt": "2026-03-16T09:29:28.390Z"
     }
   },
   "dismissed": {

@@ -47,6 +47,15 @@
       "skillFolderHash": "",
       "installedAt": "2026-03-16T09:29:28.390Z",
       "updatedAt": "2026-03-16T09:29:28.390Z"
+    },
+    "simplify": {
+      "source": "brianlovin/claude-config",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/brianlovin/claude-config.git",
+      "skillPath": "skills/simplify/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-03-26T12:45:07.962Z",
+      "updatedAt": "2026-03-26T12:45:07.962Z"
     }
   },
   "dismissed": {
@@ -54,9 +63,11 @@
   },
   "lastSelectedAgents": [
     "amp",
+    "antigravity",
     "cline",
     "codex",
     "cursor",
+    "deepagents",
     "gemini-cli",
     "github-copilot",
     "kimi-cli",
